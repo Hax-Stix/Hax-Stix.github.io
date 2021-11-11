@@ -1,2 +1,2 @@
 # Hax-Stix.github.io
-The Source Of Hax-Stix.github.io
+the source of Hax-Stix.github.io
